@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "格式化内容"
   spec.description   = "格式化输入的中文信息"
-  #spec.homepage      = ''
+  spec.homepage      = 'https://github.com/tangbtqzy/format_content'
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
